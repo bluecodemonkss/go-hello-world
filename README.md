@@ -15,3 +15,9 @@ Desinstalar
 rm $GOPATH/bin/go-hello-world
 CS16069
 
+$ go-hello-world
+Hola a todos 
+Desinstalar
+rm $GOPATH/bin/go-hello-wold
+4955511
+
