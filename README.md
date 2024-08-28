@@ -24,7 +24,7 @@ Hola a todos
 Desinstalar
 rm $GOPATH/bin/go-hello-wold
 4955511
-
+3716370-Vasquez
 4955511-Marcos
 Emily Bolaño Flores 2429841
 Emilys - 2429841
