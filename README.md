@@ -15,6 +15,16 @@ Desinstalar
 rm $GOPATH/bin/go-hello-world
 Emily-Flores
 CS16069
+Holiwis
+
+$ go-hello-world
+Hola a todos 
+Desinstalar
+rm $GOPATH/bin/go-hello-wold
+4955511
+
+4955511-Marcos
+=======
 Emily Bolaño Flores 2429841
 Emilys - 2429841
 Emily Flores 2429841
@@ -26,4 +36,4 @@ CS1606
 2788307-Jacqueline
 1925597-Maynor
 10195594 - Estrellita
-master
+
