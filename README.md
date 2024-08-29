@@ -15,12 +15,10 @@ Desinstalar
 rm $GOPATH/bin/go-hello-world
 Emily-Flores
 CS16069
-
-- 4798198 - Esmeralda Graciela López Rivera
-
+4798198 - Esmeralda Graciela López Rivera
+6657336 DANIEL STEVEN LÓPEZ HERNÁNDEZ
 5363922-Andrea Rocio Pérez Arriola  
 Holiwis
-
 $ go-hello-world
 Hola a todos 
 Desinstalar
@@ -39,8 +37,6 @@ CS1606
 2788307-Jacqueline
 1925597-Maynor
 10195594 - Estrellita
-
+Rodriguez
+5834157- YonyPro
 5834277-Joel
-master
-
-
