@@ -28,3 +28,5 @@ CS1606
 1925597-Maynor
 5834163-Emely
 10195594 - Estrellita
+rm $GOPATH/bin/go-hello-word
+20367749 - Gerardo
