@@ -15,6 +15,19 @@ Desinstalar
 rm $GOPATH/bin/go-hello-world
 Emily-Flores
 CS16069
+
+6657336 DANIEL STEVEN LÓPEZ HERNÁNDEZ
+
+5363922-Andrea Rocio Pérez Arriola  
+Holiwis
+
+$ go-hello-world
+Hola a todos 
+Desinstalar
+rm $GOPATH/bin/go-hello-wold
+4955511
+3716370-Vasquez
+4955511-Marcos
 Emily Bolaño Flores 2429841
 Emilys - 2429841
 Emily Flores 2429841
@@ -27,10 +40,19 @@ CS1606
 1925597-Maynor
 
 
-master
-rm 
+
+
 5834163-Emely
 10195594 - Estrellita
+
+
+
+
+10195594 - Estrellita
+Rodriguez
+5834157- YonyPro
+
+5834277-Joel
 
 
 
