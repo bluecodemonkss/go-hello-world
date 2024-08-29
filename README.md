@@ -24,6 +24,7 @@ $ go-hello-world
 Hola a todos 
 Desinstalar
 rm $GOPATH/bin/go-hello-wold
+1925597-Maynor
 4955511
 3716370-Vasquez
 4955511-Marcos
@@ -36,7 +37,6 @@ CS16069
 5061893 - juls
 CS1606
 2788307-Jacqueline
-1925597-Maynor
 5834163-Emely
 10195594 - Estrellita
 10195594 - Estrellita
@@ -47,4 +47,5 @@ Rodriguez
 5834277-Joel
 ALO
 4955450 - Manuel
+4030347-IvanRosa
 4030349-CHATO
