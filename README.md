@@ -37,8 +37,8 @@ CS16069
 5061893 - juls
 CS1606
 2788307-Jacqueline
+20367749-Gerardo
 5834163-Emely
-10195594 - Estrellita
 10195594 - Estrellita
 Rodriguez
 5834157- YonyPro
@@ -49,11 +49,14 @@ master
 4096283-bryan
 
 5069786 - alexis nobody
-5834277-Joel
 ALO
+4030349-CHATO
 4955450 - Manuel
 4030347-IvanRosa
+update-readme
+
 4030349-CHATO
 2320559- Kelly Leticia Escalante Hernández
 
  CHATO
+CHATO
