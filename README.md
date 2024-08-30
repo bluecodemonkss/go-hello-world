@@ -43,6 +43,11 @@ CS1606
 Rodriguez
 5834157- YonyPro
 5834277-Joel
+bryan
+master
+
+4096283-bryan
+
 5069786 - alexis nobody
 5834277-Joel
 ALO
@@ -51,3 +56,4 @@ ALO
 4030349-CHATO
 2320559- Kelly Leticia Escalante Hernández
 
+ CHATO
