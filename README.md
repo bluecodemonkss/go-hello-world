@@ -1,4 +1,4 @@
-# go-hello-world
+1# go-hello-world
 
 Install
 
@@ -15,17 +15,17 @@ Desinstalar
 rm $GOPATH/bin/go-hello-world
 Emily-Flores
 CS16069
-
 5003073 Lorena Lisseth
+Jasson-4838081
+4798198 - Esmeralda Graciela López Rivera
 6657336 DANIEL STEVEN LÓPEZ HERNÁNDEZ
-
 5363922-Andrea Rocio Pérez Arriola  
 Holiwis
-
 $ go-hello-world
 Hola a todos 
 Desinstalar
 rm $GOPATH/bin/go-hello-wold
+1925597-Maynor
 4955511
 3716370-Vasquez
 4955511-Marcos
@@ -38,12 +38,26 @@ CS16069
 5061893 - juls
 CS1606
 2788307-Jacqueline
-1925597-Maynor
+20367749-Gerardo
+5834163-Emely
 10195594 - Estrellita
 Rodriguez
 5834157- YonyPro
-
 5834277-Joel
+bryan
 master
 
- master
+4096283-bryan
+
+5069786 - alexis nobody
+ALO
+4030349-CHATO
+4955450 - Manuel
+4030347-IvanRosa
+update-readme
+
+4030349-CHATO
+2320559- Kelly Leticia Escalante Hernández
+
+ CHATO
+CHATO
