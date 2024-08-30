@@ -15,6 +15,7 @@ Desinstalar
 rm $GOPATH/bin/go-hello-world
 Emily-Flores
 CS16069
+5003073 Lorena Lisseth
 Jasson-4838081
 4798198 - Esmeralda Graciela López Rivera
 6657336 DANIEL STEVEN LÓPEZ HERNÁNDEZ
